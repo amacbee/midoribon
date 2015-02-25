@@ -3,3 +3,4 @@
 
 ## nbviewerへのリンク
 - [1章 データを理解するためにモデルを作る](http://nbviewer.ipython.org/github/amacbee/midoribon/blob/master/Chapter_01.ipynb)
+- [2章 確率分布と統計モデルの最尤推定](http://nbviewer.ipython.org/github/amacbee/midoribon/blob/master/Chapter_02.ipynb)
